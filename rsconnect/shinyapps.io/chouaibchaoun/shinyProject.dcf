@@ -1,0 +1,13 @@
+name: shinyProject
+title: shinyProject
+username:
+account: chouaibchaoun
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5316391
+bundleId: 5364719
+url: https://chouaibchaoun.shinyapps.io/shinyProject/
+when: 1639366519.70444
+lastSyncTime: 1639366519.70444
+asMultiple: FALSE
+asStatic: FALSE

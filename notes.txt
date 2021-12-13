@@ -1,0 +1,9 @@
+Hiba :
+Une visualisation de la carte de paris avec l'intensité des interventions.
+Places, rivers & roads are gonna help build the map.
+Roads [gris] Rivers [Blue] Places [Traits pour marker les zones de PAris]
+Est-ce qu'on peut visualiser le retard des interventions ?
+
+###########################
+carr : contient les id des interventions
+Dans ma rue: type d'intervention / Localisation/ intervenant / date /
